@@ -16,6 +16,7 @@
 		664E73842A41493E0003D595 /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = 664E73832A41493E0003D595 /* landmarkData.json */; };
 		664E73862A41494E0003D595 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 664E73852A41494E0003D595 /* Landmark.swift */; };
 		664E73882A4149B90003D595 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 664E73872A4149B90003D595 /* ModelData.swift */; };
+		664E738D2A414A540003D595 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 664E738C2A414A540003D595 /* LandmarkRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		664E73832A41493E0003D595 /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 		664E73852A41494E0003D595 /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		664E73872A4149B90003D595 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		664E738C2A414A540003D595 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				664E73732A41429B0003D595 /* ContentView.swift */,
 				664E737F2A4145C40003D595 /* CircleImage.swift */,
 				664E73812A4146290003D595 /* MapView.swift */,
+				664E738C2A414A540003D595 /* LandmarkRow.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 				664E73722A41429B0003D595 /* LandmarksApp.swift in Sources */,
 				664E73802A4145C40003D595 /* CircleImage.swift in Sources */,
 				664E73862A41494E0003D595 /* Landmark.swift in Sources */,
+				664E738D2A414A540003D595 /* LandmarkRow.swift in Sources */,
 				664E73882A4149B90003D595 /* ModelData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
