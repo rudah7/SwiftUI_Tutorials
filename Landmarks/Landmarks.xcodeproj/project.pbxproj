@@ -82,6 +82,7 @@
 		665818602A55E5AF0029AA9D /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6658185F2A55E5AF0029AA9D /* LandmarkList.swift */; };
 		665818622A55E7D50029AA9D /* LandmarkCommands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 665818612A55E7D50029AA9D /* LandmarkCommands.swift */; };
 		665818632A55E7D50029AA9D /* LandmarkCommands.swift in Sources */ = {isa = PBXBuildFile; fileRef = 665818612A55E7D50029AA9D /* LandmarkCommands.swift */; };
+		665818652A55E96F0029AA9D /* LandmarkSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 665818642A55E96F0029AA9D /* LandmarkSettings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -163,6 +164,7 @@
 		6658185D2A55E4AA0029AA9D /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		6658185F2A55E5AF0029AA9D /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 		665818612A55E7D50029AA9D /* LandmarkCommands.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkCommands.swift; sourceTree = "<group>"; };
+		665818642A55E96F0029AA9D /* LandmarkSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkSettings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -371,6 +373,7 @@
 				665818452A55E3A00029AA9D /* ContentView.swift */,
 				6658185D2A55E4AA0029AA9D /* LandmarkDetail.swift */,
 				665818612A55E7D50029AA9D /* LandmarkCommands.swift */,
+				665818642A55E96F0029AA9D /* LandmarkSettings.swift */,
 				665818472A55E3A30029AA9D /* Assets.xcassets */,
 				6658184C2A55E3A30029AA9D /* MacLandmarks.entitlements */,
 				665818492A55E3A30029AA9D /* Preview Content */,
@@ -615,6 +618,7 @@
 			files = (
 				665818462A55E3A00029AA9D /* ContentView.swift in Sources */,
 				665818502A55E41A0029AA9D /* MapView.swift in Sources */,
+				665818652A55E96F0029AA9D /* LandmarkSettings.swift in Sources */,
 				665818522A55E41A0029AA9D /* Hike.swift in Sources */,
 				665818562A55E41A0029AA9D /* LandmarkList.swift in Sources */,
 				665818632A55E7D50029AA9D /* LandmarkCommands.swift in Sources */,
